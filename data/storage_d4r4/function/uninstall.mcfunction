@@ -1,0 +1,10 @@
+scoreboard objectives remove d4r4_storage
+scoreboard objectives remove d4r4_storage_max
+scoreboard objectives remove d4r4_storage_temp
+scoreboard objectives remove d4r4_storage_iv
+scoreboard objectives remove d4r4_stor_cd
+scoreboard objectives remove d4r4_stor_trgr
+
+scoreboard objectives remove d4r4_stor_cs
+scoreboard objectives remove d4r4_stor_eb
+scoreboard objectives remove d4r4_stor_st

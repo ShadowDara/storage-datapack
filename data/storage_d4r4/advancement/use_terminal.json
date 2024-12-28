@@ -1,0 +1,9 @@
+{
+	"criteria": { "use_item": {
+		"trigger": "minecraft:using_item",
+		"conditions": { "item": { "predicates": {
+			"minecraft:custom_data": {"storage_terminal_d4r4":true}
+		}}}
+	}},
+	"rewards": { "function": "storage_d4r4:use_terminal" }
+}

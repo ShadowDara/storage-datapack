@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"key": {
+		"X": { "item": "minecraft:stick" },
+		"C": { "item": "minecraft:cobblestone" },
+		"B": { "item": "minecraft:furnace" }
+	},
+	"pattern": [
+		"BXB",
+		"XCX",
+		"BXB"
+	],
+	"result": {
+		"id": "minecraft:knowledge_book",
+		"components": {
+			"item_name": "{\"text\":\"Cobblestone Storage Disk\",\"color\":\"white\"}",
+			"enchantment_glint_override": true,
+			"recipes": ["storage_d4r4:trigger/cobblestone_disk"],
+			"minecraft:custom_model_data": 444002,
+			"custom_data": {"cobblestone_disk":true}
+		}
+	}
+}

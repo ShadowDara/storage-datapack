@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"key": {
+		"X": { "item": "minecraft:emerald" },
+		"C": { "item": "minecraft:cobblestone"},
+		"B": { "item": "minecraft:redstone" }
+	},
+	"pattern": [
+		"BXB",
+		"XCX",
+		"BXB"
+	],
+	"result": {
+		"id": "minecraft:knowledge_book",
+		"components": {
+			"item_name": "{\"text\":\"Emerald Storage Disk\",\"color\":\"white\"}",
+			"enchantment_glint_override": true,
+			"recipes": ["storage_d4r4:trigger/emerald_disk"],
+			"minecraft:custom_model_data": 444006,
+			"custom_data": {"cobblestone_disk":true}
+		}
+	}
+}

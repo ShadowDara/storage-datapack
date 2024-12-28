@@ -1,0 +1,7 @@
+{
+    "criteria": {"use_disk":{
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {"recipe": "storage_d4r4:trigger/copper_disk"}
+    }},
+    "rewards": {"function": "storage_d4r4:use/copper_disk"}
+}
