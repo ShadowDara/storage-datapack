@@ -44,17 +44,55 @@ Currently there are 5 Level of Storage Disks. `Cobblestone`, `Copper`, `Iron`, `
 ## Recipes
 ### Storage Terminal
 
+| Recipe | | |
+|--|--|--|
+| Redstone Block | Iron Ingot | Redstone Block|
+| Iron Ingot | Diamond Block | Iron Ingot |
+| Redstone Block | Iron Ingot | Redstone Block|
+
 ### Cobblestone Storage Disk
+
+| Recipe | | |
+|--|--|--|
+| Furnace | Stick | Furnace |
+| Stick | Cobblestone | Stick |
+| Furnace | Stick | Furnace |
+
 
 ### Copper Storage Disk
 
+| Recipe | | |
+|--|--|--|
+| Redstone | Copper Ingot | Redstone |
+| Copper Ingot | Cobblestone | Copper Ingot|
+| Redstone | Copper Ingot | Redstone|
+
 ### Iron Storage Disk
+
+| Recipe | | |
+|--|--|--|
+| Redstone | Iron Ingot | Redstone |
+| Iron Ingot | Cobblestone | Iron Ingot|
+| Redstone | Iron Ingot | Redstone|
 
 ### Gold Storage Disk
 
+| Recipe | | |
+|--|--|--|
+| Redstone | Gold Ingot | Redstone |
+| Gold Ingot | Cobblestone | Gold Ingot|
+| Redstone | Gold Ingot | Redstone|
+
 ### Emerald Storage Disk
 
+| Recipe | | |
+|--|--|--|
+| Redstone | Emerald Ingot | Redstone |
+| Emerald Ingot | Cobblestone | Emerald Ingot|
+| Redstone | Emerald Ingot | Redstone|
+
 ## Enchantments
+
 ### Storage Terminal
 This is an enchantement for the Storage Terminal Item to run functions in the Datapack if your holding it your mainhand to prevent lag.
 
