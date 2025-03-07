@@ -1,4 +1,6 @@
 # Simple Storage by Shadow_Dara
+## Hey do you now custom model data? Would really cool if would me with the resource Pack for this Datapack. [https://github.com/ShadowDara/storage-recource-pack](https://github.com/ShadowDara/storage-recource-pack)
+
 ## Why should i download this pack?
 Are you tired of constantly running out of storage space in Minecraft? Look no further! The Datapack is designed to revolutionize your in-game storage experience.
 
